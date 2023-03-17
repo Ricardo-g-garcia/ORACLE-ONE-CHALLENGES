@@ -40,7 +40,7 @@ public class Ventana extends JFrame {
 		
 		
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 19));
-		lblNewLabel.setBounds(121, 11, 111, 41);
+		lblNewLabel.setBounds(121, 11, 151, 41);
 		contentPane.add(lblNewLabel);
 		
 		campoCantidad.setBounds(61, 98, 222, 20);
